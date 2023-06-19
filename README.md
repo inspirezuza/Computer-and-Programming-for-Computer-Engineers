@@ -2,8 +2,6 @@
 
 A personal repository for storing codes from 01204113-65 Computer and Programming for Computer Engineers 2022 , Kasetsart University
 
-Important Note: This Python class code is meant to help students learn. Please avoid directly copying it. Instead, try to understand the code's logic. This will allow you to make improvements and customize it according to your needs.
-
 - [ELAB 1 Basic Python & 2 Functions](https://colab.research.google.com/drive/13ybCmxf9GtqZux57OFSi8eJ6ZYOiKUdk)
 
 - [ELAB 3 Selection](https://colab.research.google.com/drive/1C4YBXjttSPk8sq08SJUNuiFJf5CTnLfy)
