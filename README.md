@@ -1,3 +1,5 @@
+# ****พี่เจตนาดี อยากให้น้องที่ทำไม่ได้มีแนวทางในการทำโจทย์หรือได้นำไปคิดวิเคราะห์ในการแก้ปัญหา ขอร้องอย่าก็อปวางส่งโง่ๆนะครับ โตๆกันแล้ว คิดได้เนอะ*
+
 ## 2022 01204113-65 Computer and Programming for Computer Engineers
 
 A personal repository for storing codes from 01204113-65 Computer and Programming for Computer Engineers 2022 , Kasetsart University
